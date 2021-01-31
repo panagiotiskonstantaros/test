@@ -1,39 +1,52 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+THEME: Atlantis - Free Bootstrap Theme
+AUTHOR: uiCookies.com
+AUTHOR URI: https://uicookies.com/
 
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
+CREDITS:
 
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
+Bootstrap
+http://getbootstrap.com/
 
-http://md.photomerchant.net/
+jQuery
+http://jquery.com/
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-AJ
-aj@lkn.io | @ajlkn
+HTML5Shiv
+https://github.com/aFarkas/html5shiv
 
+Google Fonts
+https://www.google.com/fonts/
 
-Credits:
+Icomoon
+https://icomoon.io/app/
 
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+animate.css
+http://daneden.me/animate
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (@ajlkn)
-		jquery.scrolly (@ajlkn)
-		jquery.onvisible (@ajlkn)
-		Skel (skel.io)
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Owl Carousel
+https://owlcarousel2.github.io/OwlCarousel2/
+
+FlexSlider
+http://flexslider.woothemes.com
+
+Demo Images
+https://unsplash.com
+https://pexels.com
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+Bootstrap DatePicker
+https://github.com/eternicode/bootstrap-datepicker/
